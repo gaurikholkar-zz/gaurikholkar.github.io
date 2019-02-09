@@ -71,3 +71,7 @@ src: url("../font/StRyde-Regular.otf") format("opentype");
 .stRyde{
   font-family: 'stRyde'; 
 }
+
+.icon-color {
+  color: white;
+}
